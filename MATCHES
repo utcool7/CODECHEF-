@@ -1,24 +1,6 @@
 
 https://www.codechef.com/COOK110B/problems/MATCHES
-/*
- ___     ___     ___                                              ___ 
- | |     | |     | |                                              | | 
- | |     | |  ___| |____                                          | | ________  
- | |     | | |___   ____|  _________    __________   __________   | ||_____  |
- | |     | |     | |       |  ______|  |  ______  | |  ______  |  | |     / /
- | |     | |     | |       | |         | |      | | | |      | |  | |    / /    
- | |     | |  _  | |       | |         | |      | | | |      | |  | |   / /
- | |_____| |_| | | |______ | |______   | |______| | | |______| |  | |  / /    
- |_____________| |_______| |________|  |__________| |__________|  |_| /_/     
- 
- */     
 #include<bits/stdc++.h>
-#define deb(x) cout << #x << "=" << x << endl
-#define deb2(x, y) cout << #x << "=" << x << "," << #y << "=" << y << endl
-#define pb emplace_back
-#define val first
-#define idx second
-#define all(x) x.begin(), x.end()
 #define clr(x) memset(x, 0, sizeof(x))
 typedef long long int lli;
 #define vli vector<lli> 
@@ -48,4 +30,3 @@ int main()
 	}
 	return 0;
 }
-    
